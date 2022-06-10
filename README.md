@@ -1,7 +1,7 @@
 # Robotic-Arm-Pick-n-Drop-Simulator
 The project is created using C++ and OpenGL.
 
-This project shows the simulation of the Robotic Arm whose perspective view is controlled by arrow keys. The robot arm is specified by (1) the angle that the upper arm makes relative to the x-axis, called shoulderAngle, and (2) the angle that the lower arm makes relative to the upper arm, called elbowAngle. All the movements between upper and lower arm are carried through the specific keyboard keys. The robotic arm can also pick a ball from the specified location and then drop it at a specified location (basket).
+This project shows the simulation of the Robotic Arm whose perspective view is controlled by arrow keys. The robot arm is specified by (1) the angle that the upper arm makes relative to the y/z-axis, called shoulderAngle, and (2) the angle that the lower arm makes relative to the upper arm, called elbowAngle. All the movements between upper and lower arm are carried through the specific keyboard keys. The robotic arm can also pick a ball from the specified location and then drop it at a specified location (basket).
 
 # How to control the robotic arm?
 
